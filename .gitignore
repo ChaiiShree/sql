@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.pkl
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Data files (you don't want to push the full CSV)
+data/
+*.csv
+*.tsv
+*.zip
+
+# Logs & system files
+*.log
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
