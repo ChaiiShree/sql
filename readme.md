@@ -57,47 +57,47 @@ python main.py
 
 ## 📊 Exploratory Visualizations
 
-Stored in the `visualizations/` folder and generated via Jupyter:
+Stored in the `notebooks/visualizations/` folder and generated via Jupyter:
 
 1. **Accidents by State**
 
-   ![Accidents by State](visualizations/accidents_by_state.png)
+   ![Accidents by State](notebooks/visualizations/accidents_by_state.png)
 
 2. **Severity Distribution**
 
-   ![Severity Distribution](visualizations/severity_distribution.png)
+   ![Severity Distribution](notebooks/visualizations/severity_distribution.png)
 
 3. **Accident Duration Histogram**
 
-   ![Accident Duration Histogram](visualizations/accident_duration_hist.png)
+   ![Accident Duration Histogram](notebooks/visualizations/accident_duration_hist.png)
 
 4. **Top Cities by Accidents**
 
-   ![Top Cities by Accidents](visualizations/top_cities_accidents.png)
+   ![Top Cities by Accidents](notebooks/visualizations/top_cities.png)
 
 5. **Weather Conditions by State**
 
-   ![Weather Conditions by State](visualizations/weather_conditions_by_state.png)
+   ![Weather Conditions by State](notebooks/visualizations/weather_by_state.png)
 
 6. **Hourly Accident Distribution**
 
-   ![Hourly Accident Distribution](visualizations/hourly_accidents.png)
+   ![Hourly Accident Distribution](notebooks/visualizations/hourly_distribution.png)
 
 7. **Weekday vs Weekend Accidents**
 
-   ![Weekday vs Weekend Accidents](visualizations/weekday_vs_weekend.png)
+   ![Weekday vs Weekend Accidents](notebooks/visualizations/weekday_vs_weekend.png)
 
 8. **Monthly Average Duration**
 
-   ![Monthly Average Duration](visualizations/monthly_avg_duration.png)
+   ![Monthly Average Duration](notebooks/visualizations/avg_duration_by_month.png)
 
 9. **Severity by Weather Condition**
 
-   ![Severity by Weather Condition](visualizations/severity_by_weather.png)
+   ![Severity by Weather Condition](notebooks/visualizations/severity_by_weather.png)
 
 10. **Wind Speed vs Severity**
 
-    ![Wind Speed vs Severity](visualizations/wind_speed_vs_severity.png)
+    ![Wind Speed vs Severity](notebooks/visualizations/wind_speed_vs_severity.png)
 
 
 ---
