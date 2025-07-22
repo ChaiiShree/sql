@@ -164,13 +164,3 @@ Found in `notebooks/advanced_queries.ipynb`:
 
 This project is licensed under the MIT License.
 Dataset credit: © [Kaggle – US Accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
-
----
-
-Let me know if you'd like:
-
-* A Streamlit dashboard section added
-* A public GitHub description
-* Resume bullet for this project
-
-You're ready to publish! 🚀
